@@ -1,0 +1,108 @@
+.a{
+    background-color: rgb(220, 245, 180);
+}
+.navimg{
+    width: 200px;
+}
+.navb{
+    border-radius: 20px;
+    margin-top: 3px;
+    background-color: rgb(159, 247, 77);
+    width: 80px;
+}
+.navs{
+    margin-left: 10px;
+    
+}
+.navg{
+    margin-left: 450px;
+}
+.gap{
+    margin-top: 80px;
+}
+.buttona{
+    border-radius: 20px;
+    margin-top: 3px;
+    background-color: rgb(121, 235, 14);
+    width: 120px;
+}
+.imga{
+    width: 450px;
+    height: auto;
+}
+.b{
+    margin-top: 50px;
+}
+.tc{
+    text-align: center;
+}
+.imgc{
+    width: 70px;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.border{
+    border: 2px 2px 2px 2px;
+    width: 23%;
+    border-color: black;
+    display: inline-block;
+    background-color: rgb(236, 253, 247);
+    margin-left: 1%;
+}
+.imgca{
+    width: 87px;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+}
+.imgcb{
+    width: 85px;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.imgcc{
+    width: 81px;
+    margin-left: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card-title{
+    color: rgb(81, 81, 241);
+}
+.cardb{
+    border-radius: 20px;
+    margin-top: 3px;
+    background-color: rgb(121, 235, 14);
+    width: 120px;
+}
+.manimg{
+    width: 120px;
+    margin-left: 50%;
+}
+.l{
+    display: inline-block;
+    
+}
+.c{
+    background-color: rgb(33, 33, 63);
+}
+.par{
+    color: white;
+}
+.gapp{
+    margin-top: 50px;
+}
+.f{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+.fimg{
+    width: 25px;
+}
+.fimga{
+    width: 25px;
+    margin-left: 80px;
+}
