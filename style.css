@@ -27,7 +27,7 @@
     width: 120px;
 }
 .imga{
-    width: 450px;
+    width: 350px;
     height: auto;
 }
 .b{
@@ -38,7 +38,7 @@
 }
 .imgc{
     width: 70px;
-    margin-left: 90px;
+    margin-left: px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -52,19 +52,19 @@
 }
 .imgca{
     width: 87px;
-    margin-left: 90px;
+    margin-left: px;
     margin-top: 20px;
     margin-bottom: 20px;  
 }
 .imgcb{
     width: 85px;
-    margin-left: 90px;
+    margin-left: px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 .imgcc{
     width: 81px;
-    margin-left: 90px;
+    margin-left: px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -79,7 +79,7 @@
 }
 .manimg{
     width: 120px;
-    margin-left: 50%;
+    margin-left: 40%;
 }
 .l{
     display: inline-block;
