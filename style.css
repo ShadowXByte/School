@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .a{
     background-color: rgb(220, 245, 180);
 }
@@ -15,7 +18,7 @@
     
 }
 .navg{
-    margin-left: 450px;
+    margin-left: 100px;
 }
 .gap{
     margin-top: 80px;
